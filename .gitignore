@@ -1,0 +1,12 @@
+test_output/
+MilosSavic
+
+.idea
+*.java
+
+*.pdf
+logs_*
+libry/*.zip
+*2022*
+
+
